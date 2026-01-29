@@ -1,0 +1,6 @@
+Name: Ajayi Anjolajesu
+Matric Number: 22CH031986
+Machine Learning Algorithm Used: Random Forest Regressor
+Model persistence method used: Joblib
+Live URL: https://bychiamaka-house-price-project.streamlit.app/
+GitHub repository link: https://github.com/ByChiamaka/House-Price-Project
